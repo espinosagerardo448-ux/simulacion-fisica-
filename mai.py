@@ -1,0 +1,1 @@
+print("simulacino fisica iniciada")
